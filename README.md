@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **midoxchh/midoxchh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-🔭 I’m currently working <br>👯 I’m looking to collaborate <br>🤝 I’m looking for help <br>🌱 I’m currently learning<br>💬 Ask me about everything<br>⚡ Fun fact (I have ADHD) 
-
+## 💫 About Me:
+I am a Full Stack Web Developer, 24 years old, passionate about the world of the web, talented in project management and problem solving, strong creative and analytical skills. Development is part of my daily life, team spirit with attention to detail.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/J7pvDVr5wv) 
