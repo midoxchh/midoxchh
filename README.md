@@ -14,8 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 💫 About Me:
+# 💫 About Me:
 I am a Full Stack Web Developer, 24 years old, passionate about the world of the web, talented in project management and problem solving, strong creative and analytical skills. Development is part of my daily life, team spirit with attention to detail.
+
+- 🔭 I’m currently working on myself
+- 🌱 I’m currently learning dart language
+- 👯 I’m looking to collaborate on a big project
+- 🤔 I’m looking for help with sleeping
+- 💬 Ask me about everything
+- 📫 How to reach me: say hi !! "just say hi "
+- 😄 Pronouns: he / him / his
+- ⚡ Fun fact: i have ADHD "coool right hahah "
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/J7pvDVr5wv) 
